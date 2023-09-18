@@ -15,7 +15,13 @@
 # Range and print functions available as builtins
 
 
+
 def main():
     print("Hello Mojo 🔥!")
     for x in range(9, 0, -3):
         print(x)
+
+
+# to run the mojo file: mojo hello.🔥
+# to build: mojo build hello.🔥
+# to run the built file: ./hello
